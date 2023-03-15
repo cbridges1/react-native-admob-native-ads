@@ -18,13 +18,16 @@
     "README.md",
     "android/",
     "android/build.gradle",
+    "app.plugin.js",
     "ios/RNAdMobManager.xcodeproj/project.pbxproj",
     "ios/**/*.h",
     "ios/**/*.m",
     "ios/**/*.swift",
     "index.js",
     "index.d.ts",
+    "plugin/",
     "src/*.js",
+    "tsconfig.json",
     "react-native-admob-native-ads.podspec"
   ],
   "keywords": [
